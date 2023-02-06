@@ -6,8 +6,7 @@ Notes and scattered thoughts for future works.  Not quite a planet/repo but clos
 
 -Write get-password.ps1
 
--Write new-employee.ps1 
-## .csv or .json tbd
+-Write new-employee.ps1 (.csv or .json tbd)
 
 -Write msft teams phone system management function/script
 
