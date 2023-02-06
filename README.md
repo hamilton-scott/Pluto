@@ -37,6 +37,7 @@ Notes and scattered thoughts for future works.  Not quite a planet/repo but clos
 
 -email report function to couple with above
 
+-remediate bitlocker 128 to 256 encryption (unencrypt, wait, kickoff scheduled task)
 
 
 -Import old works
