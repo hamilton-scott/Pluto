@@ -19,7 +19,26 @@ Notes and scattered thoughts for future works.  Not quite a planet/repo but clos
 
 -set out-of-office for disabled AD accounts based on attributes and OU
 
--posh to validate patches are "up to date"
+-powershell to validate updates/patches are "up to date"
+
+-powershell to check for unsaved/unrecovered docs
+
+-microsoft teams firewall rule 
+
+-u/madboyevo the only powershell command you will ever need to find out who did what in active directory
+
+-verify firewall rules are enabled
+
+-verify system rebooted with in last x time
+
+-List of users's whos password is about to expire, email daily for 7 days, log it, ticket it if they hit 0 days or -1 days
+
+-Windows 10 user hive customizations "this pc" vs "favorite" and "more details" on task manager; performance options
+--function to copy the files to the %startup% and c:\temp folder
+
+-email report function to couple with above
+
+
 
 -Import old works
 
