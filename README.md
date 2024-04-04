@@ -1,6 +1,10 @@
 # Pluto
 Notes and scattered thoughts for future works.  Not quite a planet/repo but close. 
 
+# Helpful Links
+
+List of Supported Apps by Intune Enterprise App Catalog: 
+- https://github.com/DanielBradley1/All-Enterprise-App-Catalog-Apps-List
 
 # To Do 
 
