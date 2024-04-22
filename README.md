@@ -6,6 +6,9 @@ Notes and scattered thoughts for future works.  Not quite a planet/repo but clos
 List of Supported Apps by Intune Enterprise App Catalog: 
 - https://github.com/DanielBradley1/All-Enterprise-App-Catalog-Apps-List
 
+Intune App Deploy Repo
+- https://github.com/tabs-not-spaces/Intune-App-Deploy
+
 # To Do 
 
 -Write get-password.ps1
