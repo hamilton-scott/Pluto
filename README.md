@@ -9,6 +9,9 @@ List of Supported Apps by Intune Enterprise App Catalog:
 Intune App Deploy Repo
 - https://github.com/tabs-not-spaces/Intune-App-Deploy
 
+PSADT Snippets/CheatSheet (Leeramsay)
+- https://gist.github.com/leeramsay/1579b897c579535880f01a267c41e585
+  
 # To Do 
 
 -Write get-password.ps1
