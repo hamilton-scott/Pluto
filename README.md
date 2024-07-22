@@ -1,5 +1,5 @@
 # Pluto
-Notes and scattered thoughts for future works.  Not quite a planet/repo but close. 
+Notes and scattered thoughts for future works.  Not quite a planet/repo, but almost. 
 
 # Helpful Links
 
