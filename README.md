@@ -12,8 +12,12 @@ Intune App Deploy Repo
 PSADT Snippets/CheatSheet (Leeramsay)
 - https://gist.github.com/leeramsay/1579b897c579535880f01a267c41e585
 
-- GraphPS Intune Samples
+GraphPS Intune Samples
 - https://github.com/microsoftgraph/powershell-intune-samples/tree/master/DeviceConfiguration
+
+SCCM Client locations/cheat sheet
+- install log = C:\Windows\ccmsetup\Logs
+- repair = C:\Windows\CCM\CCMRepair.exe
   
 # To Do 
 
