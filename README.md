@@ -18,6 +18,9 @@ GraphPS Intune Samples
 SCCM Client locations/cheat sheet
 - install log = C:\Windows\ccmsetup\Logs
 - repair = C:\Windows\CCM\CCMRepair.exe
+
+Winget Auto Update (Forked from Romanitho's work)
+- https://github.com/Weatherlights/Winget-AutoUpdate-Intune
   
 # To Do 
 
