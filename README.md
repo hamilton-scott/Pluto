@@ -24,7 +24,7 @@ Winget Auto Update (Forked from Romanitho's work)
   
 # To Do 
 
--Write get-password.ps1 (dinopass?)
+-~Write get-password.ps1 (dinopass?)~
 
 -Write new-employee.ps1 (.csv or .json tbd)
 
