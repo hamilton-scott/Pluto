@@ -21,6 +21,9 @@ SCCM Client locations/cheat sheet
 
 Winget Auto Update (Forked from Romanitho's work)
 - https://github.com/Weatherlights/Winget-AutoUpdate-Intune
+
+Group Policy Search Site
+- https://gpsearch.azurewebsites.net/
   
 # To Do 
 
