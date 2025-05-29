@@ -25,7 +25,7 @@ Group Policy Search Site
   
 # To Do 
 
--~Write get-password.ps1 (dinopass?)~
+-~Write get-password.ps1 (dinopass?)~ Done!
 
 -Write new-employee.ps1 (.csv or .json tbd)
 
