@@ -15,10 +15,6 @@ PSADT Snippets/CheatSheet (Leeramsay)
 GraphPS Intune Samples
 - https://github.com/microsoftgraph/powershell-intune-samples/tree/master/DeviceConfiguration
 
-SCCM Client locations/cheat sheet
-- install log = C:\Windows\ccmsetup\Logs
-- repair = C:\Windows\CCM\CCMRepair.exe
-
 
 Group Policy Search Site
 - https://gpsearch.azurewebsites.net/
