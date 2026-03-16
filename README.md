@@ -18,6 +18,9 @@ GraphPS Intune Samples
 
 Group Policy Search Site
 - https://gpsearch.azurewebsites.net/
+
+Windows Product Key Retrieval 
+- https://github.com/dporkka/windows-product-key
   
 # To Do 
 
